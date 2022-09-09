@@ -1,5 +1,5 @@
 # VA4MR-visual-odometry-project
--
+
 Readme of the project of Roberto Pellerito, Giacomo Manzoni and Lorenzo Piglia
 
 In order to run correctly the Vo run main.m:
